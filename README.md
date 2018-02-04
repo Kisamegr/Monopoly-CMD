@@ -5,11 +5,9 @@ The goal of the project was to create a simplified version of the classic board 
 
 Programmed with C language, works on the windows command prompt with ascii characters as graphics.
 
-<img src="pics/1.png" height="150" width="150">
-
-<img src="pics/2.png" height="150" width="150">
-
-<img src="pics/3.png" height="150" width="150">
+<img src="pics/1.png" height="300" width="300">
+<img src="pics/2.png" height="300" width="300">
+<img src="pics/3.png" height="300" width="300">
 
 ![Screenshot](pics/4.png?raw=true "Screenshot 4")
 
